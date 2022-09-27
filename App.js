@@ -1,7 +1,7 @@
 import * as React from 'react';
 import './style.css';
 
-// const axios = require('axios').default;
+const axios = require('axios').default;
 // export default function App() {
 //   return (
 //     <div>
