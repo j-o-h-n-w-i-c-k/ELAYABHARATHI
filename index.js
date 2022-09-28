@@ -3,7 +3,7 @@ import './style.css';
 
 // Write Javascript code!
 const appDiv = document.getElementById('app');
-appDiv.innerHTML = `<h1>JOHNWICK</h1>`;
+appDiv.innerHTML = `<h1></h1>`;
 // let employees = [
 //   { name: 'elaya', gender: 'male', age: 25 },
 //   { name: 'vengi', gender: 'male', age: 24 },
